@@ -29,6 +29,10 @@ gem 'jbuilder', '~> 1.2'
 
 gem 'stripe', :git => 'https://github.com/stripe/stripe-ruby'
 
+gem 'oauth2'
+
+gem 'better_errors'
+
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
   gem 'sdoc', require: false
