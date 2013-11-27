@@ -1,5 +1,5 @@
 # Payable
-By: [Kangie Chan], [Phil Worthington](http://github.com/philworthington), and [Ali El-Ashram](http://aliel.herokuapp.com)
+By: Kangie Chan, [Phil Worthington](http://github.com/philworthington), and [Ali El-Ashram](http://aliel.herokuapp.com)
 
 ## Description
 Application that assists users in sending invoices and making payments quickly and easily utilizing the stripe api.
